@@ -14,11 +14,10 @@
 
 <br />
 <br />
-<br />
 
 ### 🔥・Links
-### <img align="left" alt="Discord" width="26px" src="https://media.discordapp.net/attachments/833014692850696233/843183539897499688/discord-mascot.png"/>・[Discord]
-### <img align="left" alt="Twitter" width="26px" src="https://cdn.discordapp.com/attachments/460874712701075468/858635357797220352/1259px-Twitter_Bird.png"/>・[Twitter]
+### <img align="left" alt="Discord" width="26px" src="https://media.discordapp.net/attachments/833014692850696233/843183539897499688/discord-mascot.png"/>[Discord]
+### <img align="left" alt="Twitter" width="26px" src="https://cdn.discordapp.com/attachments/460874712701075468/858635357797220352/1259px-Twitter_Bird.png"/>[Twitter]
 
 ---
 
