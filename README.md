@@ -1,4 +1,5 @@
-### ・👋 Salut, je suis ataashii, j'adore faire du développement même si je ne suis pas extremement fort ! :)
+### ・👋 Salut, je suis ataashii, 
+### j'adore faire du développement même si je ne suis pas extremement fort ! :)
 
 ### ・🛠 Tools:
 
