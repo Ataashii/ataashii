@@ -1,8 +1,8 @@
-### Salut, je m’appelle ataashii 👋
-### 🌱 J’apprends actuellement le JavaScript.
-### 👯 Je fait quelques projets en DiscordJS.
-### 💬 Si vous voulez me posez des questions je suis disponnible :).
-### 📫 Comment me joindre : Discorde/Twitter/Courriel
+### 👋・Salut, je m’appelle ataashii 👋
+### 🌱・J’apprends actuellement le JavaScript.
+### 👯・Je fait quelques projets en DiscordJS.
+### 💬・Si vous voulez me posez des questions je suis disponnible :).
+### 📫・Comment me joindre : Discord/Twitter.
 
 ### ・🛠 Tools:
 
@@ -16,7 +16,8 @@
 <br />
 
 ## ・🔥 Links
-Voic mon Discord : https://discord.gg/4jjm9JWFGf
+Discord : https://discord.gg/4jjm9JWFGf
+Twitter : https://twitter.com/ataashii
 
 ---
 
