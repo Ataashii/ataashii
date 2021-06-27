@@ -1,4 +1,4 @@
-### ・👋 Salut, je suis ataashii [Discord] j'adore faire du développement même si je ne suis pas extremement fort ! :)
+### ・👋 Salut, je suis ataashii, j'adore faire du développement même si je ne suis pas extremement fort ! :)
 
 ### ・🛠 Tools:
 
@@ -12,7 +12,7 @@
 <br />
 
 ## ・🔥 Links
-Discord - https://discord.gg/4jjm9JWFGf
+Voic mon Discord : https://discord.gg/4jjm9JWFGf
 
 ---
 
