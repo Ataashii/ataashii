@@ -25,4 +25,4 @@
 [Discord]: https://discord.gg/4jjm9JWFGf
 [Twitter]: https://twitter.com/ataashii
 
-<img src="https://discord.c99.nl/widget/theme-4/809885234820415490.png">
+<img src="https://discord.c99.nl/widget/theme-1/411279699407536149.png">
