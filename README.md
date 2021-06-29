@@ -25,6 +25,10 @@
 
 <img src="https://discord.c99.nl/widget/theme-3/411279699407536149.png">
 
+###👀・Visiteurs
+
+<img src="https://profile-counter.glitch.me/Ataashii/count.svg" />
+
 
 </details>
 
