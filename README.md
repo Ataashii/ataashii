@@ -1,3 +1,4 @@
+---
 ### 👋・Salut, je m’appelle ataashii 👋
 ### 🌱・J’apprends actuellement le JavaScript.
 ### 👯・Je fait quelques projets en DiscordJS.
@@ -32,8 +33,8 @@
 
 ### <p align="center"> 👀・Visiteurs
 <p align="center">
-### <img src="https://profile-counter.glitch.me/Ataashii/count.svg" />
-
+<img src="https://profile-counter.glitch.me/Ataashii/count.svg" />
+---
 
 </details>
 
