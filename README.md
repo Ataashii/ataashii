@@ -20,7 +20,6 @@
 ### <img align="left" alt="Twitter" width="26px" src="https://cdn.discordapp.com/attachments/460874712701075468/858635357797220352/1259px-Twitter_Bird.png"/>[Twitter]
 
 <br />
-<br />
 
 ### 📞・Contact
 <img src="https://discord.c99.nl/widget/theme-1/411279699407536149.png">
