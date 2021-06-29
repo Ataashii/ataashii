@@ -5,14 +5,15 @@
 ### 📫・Comment me joindre : Discord/Twitter.
 
 <br />
-
+---
 ### 🛠・Tools:
 ### [<img align="left" alt="Discord" width="26px" src="https://media.discordapp.net/attachments/833014692850696233/843183539897499688/discord-mascot.png" />][Discord]
 ### [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Discord]
 ### [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][Discord]
-
+---
 <br />
 <br />
+---
 
 ### 🔥・Links
 ### <img align="left" alt="Discord" width="26px" src="https://media.discordapp.net/attachments/833014692850696233/843183539897499688/discord-mascot.png"/>[Discord]
@@ -20,9 +21,12 @@
 
 ---
 
+### 📞・Contact
+<img src="https://discord.c99.nl/widget/theme-1/411279699407536149.png">
+
+---
+
 </details>
 
 [Discord]: https://discord.gg/4jjm9JWFGf
 [Twitter]: https://twitter.com/ataashii
-
-<img src="https://discord.c99.nl/widget/theme-1/411279699407536149.png">
