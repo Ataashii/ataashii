@@ -23,11 +23,11 @@
 
 ### 📞・Contact
 
-<img src="https://discord.c99.nl/widget/theme-3/411279699407536149.png">
+### <img src="https://discord.c99.nl/widget/theme-3/411279699407536149.png">
 
-###👀・Visiteurs
+### 👀・Visiteurs
 
-<img src="https://profile-counter.glitch.me/Ataashii/count.svg" />
+### <img src="https://profile-counter.glitch.me/Ataashii/count.svg" />
 
 
 </details>
