@@ -24,11 +24,11 @@
 ### 📞・Contact
 ### <img src="https://discord.c99.nl/widget/theme-3/411279699407536149.png">
 
-### <p align="center"> ⚙️・Mes Statistiques
+### ⚙️・Mes Statistiques
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ataashii&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ataashii&layout=compact&langs_count=8&theme=react&locale=fr"/>
 
-### <p align="center"> 👀・Visiteurs
+### 👀・Visiteurs
 <p align="center">
 <img src="https://profile-counter.glitch.me/Ataashii/count.svg" />
 ---
